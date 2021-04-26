@@ -1,0 +1,13 @@
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\bin\Debug\netcoreapp3.1\BalancerPatternCSharp.exe
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\bin\Debug\netcoreapp3.1\BalancerPatternCSharp.deps.json
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\bin\Debug\netcoreapp3.1\BalancerPatternCSharp.runtimeconfig.json
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\bin\Debug\netcoreapp3.1\BalancerPatternCSharp.runtimeconfig.dev.json
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\bin\Debug\netcoreapp3.1\BalancerPatternCSharp.dll
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\bin\Debug\netcoreapp3.1\BalancerPatternCSharp.pdb
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\obj\Debug\netcoreapp3.1\BalancerPatternCSharp.csprojAssemblyReference.cache
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\obj\Debug\netcoreapp3.1\BalancerPatternCSharp.AssemblyInfoInputs.cache
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\obj\Debug\netcoreapp3.1\BalancerPatternCSharp.AssemblyInfo.cs
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\obj\Debug\netcoreapp3.1\BalancerPatternCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\obj\Debug\netcoreapp3.1\BalancerPatternCSharp.dll
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\obj\Debug\netcoreapp3.1\BalancerPatternCSharp.pdb
+C:\Users\ammon\source\repos\BalancerPatternCSharp\BalancerPatternCSharp\obj\Debug\netcoreapp3.1\BalancerPatternCSharp.genruntimeconfig.cache

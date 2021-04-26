@@ -1,0 +1,13 @@
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\bin\Debug\netcoreapp3.1\Adapter-CSharp.exe
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\bin\Debug\netcoreapp3.1\Adapter-CSharp.deps.json
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\bin\Debug\netcoreapp3.1\Adapter-CSharp.runtimeconfig.json
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\bin\Debug\netcoreapp3.1\Adapter-CSharp.runtimeconfig.dev.json
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\bin\Debug\netcoreapp3.1\Adapter-CSharp.dll
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\bin\Debug\netcoreapp3.1\Adapter-CSharp.pdb
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\obj\Debug\netcoreapp3.1\Adapter-CSharp.csprojAssemblyReference.cache
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\obj\Debug\netcoreapp3.1\Adapter-CSharp.AssemblyInfoInputs.cache
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\obj\Debug\netcoreapp3.1\Adapter-CSharp.AssemblyInfo.cs
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\obj\Debug\netcoreapp3.1\Adapter-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\obj\Debug\netcoreapp3.1\Adapter-CSharp.dll
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\obj\Debug\netcoreapp3.1\Adapter-CSharp.pdb
+C:\Users\ammon\source\repos\Adapter-CSharp\Adapter-CSharp\obj\Debug\netcoreapp3.1\Adapter-CSharp.genruntimeconfig.cache

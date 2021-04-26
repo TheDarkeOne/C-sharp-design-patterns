@@ -1,0 +1,13 @@
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\bin\Debug\netcoreapp3.1\FactoryPatternCSharp.exe
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\bin\Debug\netcoreapp3.1\FactoryPatternCSharp.deps.json
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\bin\Debug\netcoreapp3.1\FactoryPatternCSharp.runtimeconfig.json
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\bin\Debug\netcoreapp3.1\FactoryPatternCSharp.runtimeconfig.dev.json
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\bin\Debug\netcoreapp3.1\FactoryPatternCSharp.dll
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\bin\Debug\netcoreapp3.1\FactoryPatternCSharp.pdb
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\obj\Debug\netcoreapp3.1\FactoryPatternCSharp.csprojAssemblyReference.cache
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\obj\Debug\netcoreapp3.1\FactoryPatternCSharp.AssemblyInfoInputs.cache
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\obj\Debug\netcoreapp3.1\FactoryPatternCSharp.AssemblyInfo.cs
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\obj\Debug\netcoreapp3.1\FactoryPatternCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\obj\Debug\netcoreapp3.1\FactoryPatternCSharp.dll
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\obj\Debug\netcoreapp3.1\FactoryPatternCSharp.pdb
+C:\Users\ammon\source\repos\FactoryPatternCSharp\FactoryPatternCSharp\obj\Debug\netcoreapp3.1\FactoryPatternCSharp.genruntimeconfig.cache

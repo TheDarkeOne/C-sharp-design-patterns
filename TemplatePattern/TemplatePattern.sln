@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePattern", "TemplatePattern\TemplatePattern.csproj", "{B4A7278B-D28E-47F2-AB4C-61050EB8C618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandwichTemplate.Tests", "SandwichTemplate.Tests\SandwichTemplate.Tests.csproj", "{86917829-4B13-42A1-8E4C-74A1B5C64FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A7278B-D28E-47F2-AB4C-61050EB8C618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A7278B-D28E-47F2-AB4C-61050EB8C618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A7278B-D28E-47F2-AB4C-61050EB8C618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A7278B-D28E-47F2-AB4C-61050EB8C618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86917829-4B13-42A1-8E4C-74A1B5C64FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86917829-4B13-42A1-8E4C-74A1B5C64FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86917829-4B13-42A1-8E4C-74A1B5C64FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86917829-4B13-42A1-8E4C-74A1B5C64FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC10FF38-470F-4F50-A9EF-BA13915C64CE}
+	EndGlobalSection
+EndGlobal
